@@ -123,6 +123,14 @@ public class MonsterTwo{
 	 * The constructor can't return a value
 	 */
 	
+	/**
+	 * this creates a creature with the following parameters
+	 * @param int health
+	 * @param int attack
+	 * @param int movement
+	 * @param String name
+	 */
+	
 	public MonsterTwo(int health, int attack, int movement, String name)
 	{
 		this.health = health;
